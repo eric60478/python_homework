@@ -1,3 +1,6 @@
 git add a.txt #新增沒讀過的檔案
 git commit #本地端確認  
 git remote add origin git@github.com:eric60478/cqhe.git #新增遠端
+asdfsadfsadf
+asdfsadf
+sadfasdf
