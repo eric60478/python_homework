@@ -1,6 +1,3 @@
 git add a.txt #新增沒讀過的檔案
-git commit #本地端確認
+git commit #本地端確認  
 git remote add origin git@github.com:eric60478/cqhe.git #新增遠端
-git branch feature #新增branch
-git push origin1(遠端的repo) test2(branch)#放到網路上 
-git checkout branch(選擇想要的branch)#不同進度之間的轉換
